@@ -5,4 +5,7 @@ Demo clone delta project.
  my name vijay
 
  # new project 
- Created bby vijay kumar
+ Created by vijay kumar
+
+ # uday 
+ name changed.
